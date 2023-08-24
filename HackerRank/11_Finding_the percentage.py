@@ -42,6 +42,8 @@
 # Sample Output 1
 
 # 26.50
+# https://www.hackerrank.com/challenges/finding-the-percentage?isFullScreen=true
+
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
