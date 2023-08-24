@@ -1,2 +1,3 @@
 # ignore ALL .DS files
 *.DS_Store
+*test.ipynb
